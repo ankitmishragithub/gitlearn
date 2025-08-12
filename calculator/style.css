@@ -47,3 +47,8 @@ form #output input {
     flex: 1;
     font-size: 25px;
 }
+#heading {
+ font-size: 25px;
+ text-align: center;
+ color: #f80000;
+}
